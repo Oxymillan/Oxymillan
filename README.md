@@ -10,8 +10,8 @@ I'm Jin, I am a lifelong learner who is trying to learn computer science and hop
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking to network with other developers.
 - 📫 How to reach me: jinenomura@gmail.com.
-- 😄 Pronouns: Oxymilan, fivevowels, oxymoron.
-- ⚡ Fun fact: I love playing games.
+<!-- - 😄 Pronouns: Oxymilan, fivevowels, oxymoron. -->
+<!-- - ⚡ Fun fact: I love playing games. -->
 
 
 #### Top Technologies
